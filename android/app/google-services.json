@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504999570173",
+    "project_id": "task-portal-1d882",
+    "storage_bucket": "task-portal-1d882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504999570173:android:bc89cbfbbcb949aa7e2c94",
+        "android_client_info": {
+          "package_name": "com.example.portal_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504999570173-1plv7argr7jujm87v677gj0fbca1qjri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-C9YJJYZmDNK8hDp-8dFJD3hVuQLfjr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504999570173-1plv7argr7jujm87v677gj0fbca1qjri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
